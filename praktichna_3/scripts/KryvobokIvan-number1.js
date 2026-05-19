@@ -1,0 +1,8 @@
+// // console.log('Happy developing ✨')
+//
+// let a = 0;
+//
+// while (a < 10) {
+//     a = a + 1;
+//     console.log(a);
+// }
